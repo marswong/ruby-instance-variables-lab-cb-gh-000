@@ -1,8 +1,4 @@
 class Dog
-  def initialize
-    @name = "Lassie"
-  end
-
   def name
     @name
   end
